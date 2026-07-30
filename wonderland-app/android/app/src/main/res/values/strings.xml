@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Wonderland Waterpark</string>
+    <string name="title_activity_main">Wonderland Waterpark</string>
+    <string name="package_name">in.wonderlandwaterpark.app</string>
+    <string name="custom_url_scheme">in.wonderlandwaterpark.app</string>
+</resources>
